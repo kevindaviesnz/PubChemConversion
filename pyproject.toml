@@ -1,0 +1,17 @@
+[project]
+name = "pubchem_conversion"
+version = "0.0.1"
+authors = [
+  { name="Kevin Davies", email="kdaviesnz@gmail.com" },
+]
+description = "Convert PubChem json data."
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/kevindaviesnz/pyStoreChemicalFromPubChem"
